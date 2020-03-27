@@ -1,0 +1,4 @@
+data
+.venv
+Pipfile
+Pipfile.lock
