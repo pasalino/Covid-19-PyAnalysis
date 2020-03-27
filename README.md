@@ -1,4 +1,4 @@
-# Covid-19 PyAnalytics
+# Covid-19 PyAnalysis
 
 ## Install
 
