@@ -2,3 +2,4 @@ data
 .venv
 Pipfile
 Pipfile.lock
+.ipynb_checkpoints
