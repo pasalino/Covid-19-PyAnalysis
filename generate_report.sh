@@ -13,5 +13,6 @@ cp Covid-19.html "report/$current_file"
 
 git add report/$current_file
 git add Covid-19.html
+git add report/.
 git commit -m "Report of $(date +'%d-%m-%Y')"
 git push
