@@ -1,5 +1,6 @@
 # Covid-19 PyAnalysis
 
+[I'm an inline-style link](Covid-19.html)
 ## Install
 
 ```
