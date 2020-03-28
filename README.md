@@ -1,6 +1,6 @@
 # Covid-19 PyAnalysis
 
-## [VISUALIZZA IL REPORT](Covid-19.html)
+## [VISUALIZZA IL REPORT](https://pasalino.github.io/Covid-19-PyAnalysis/Covid-19.html)
 
 ## Presentazione del Report
 Analisi della situazione italiana del Covid-19 basata sui dati della Protezione Civile. I dati sono aggiornati alle 18.30 e sono recuperati dal repository https://github.com/pcm-dpc/COVID-19. Per aggiornare i dati rilanciare il presente Notebook.
