@@ -3,13 +3,13 @@
 ## [VISUALIZZA IL REPORT](https://pasalino.github.io/Covid-19-PyAnalysis/Covid-19.html)
 
 ## Presentazione del Report
-Analisi della situazione italiana del Covid-19 basata sui dati della Protezione Civile. I dati sono aggiornati alle 18.30 e sono recuperati dal repository https://github.com/pcm-dpc/COVID-19. Per aggiornare i dati rilanciare il presente Notebook.
+Analisi della situazione italiana del Covid-19 basata sui dati della Protezione Civile. I dati sono aggiornati alle 18.30 e sono recuperati dal loro [REPOSITORY](https://github.com/pcm-dpc/COVID-19). Per aggiornare i dati rilanciare il presente Notebook.
 
 > Questo Report è stato sviluppando usando Jupyter Lab un tool che permette la scrittura di codice Python tramite Browser. 
-Il codice sorgente è disponibile all'indirizzo https://github.com/pasalino/Covid-19-PyAnalysis .
+Il codice sorgente è disponibile all'indirizzo [Scarica il codice Sorgente](https://github.com/pasalino/Covid-19-PyAnalysis) .
 
 > **Sono gradite le Star (stelline in alto a destra della pagina).** <br/>
-> Sono graditi commenti e suggerimenti che potete inviare all'indirizzo pasalino@gmail.com oppure sulla pagina https://github.com/pasalino/Covid-19-PyAnalysis/issues .
+> Sono graditi commenti e suggerimenti che potete inviare all'indirizzo [pasalino@gmail.com](mailto:pasalino@gmail.com) oppure sulla pagina [https://github.com/pasalino/Covid-19-PyAnalysis/issues](https://github.com/pasalino/Covid-19-PyAnalysis/issues).
 
 ## Nuove funzionalità
 
