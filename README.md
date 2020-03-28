@@ -13,8 +13,14 @@ Il codice sorgente è disponibile all'indirizzo [Scarica il codice Sorgente](htt
 
 ## Nuove funzionalità
 
+**28 Marzo 2020**
+
+* Aggiunto Indice
+* Report direttamente online su GitPages
+
+**27 Marzo 2020** 
 * Dati nazionali 
-* Report direttamente online
+
 
 ## Roadmap
 
