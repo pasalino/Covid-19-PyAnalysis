@@ -19,6 +19,7 @@ Il codice sorgente è disponibile all'indirizzo [Scarica il codice Sorgente](htt
 * Cambiati grafici a linee con alcuni a barre
 * Corretto il significato del numero dei nuovi contagiati
 * Aggiunti articoli ufficiali per la lettura dei dati
+* Aggiunte regressioni lineari per il calcolo delle previsioni di azzeramento del fattore di crescita
 
 **28 Marzo 2020**
 
