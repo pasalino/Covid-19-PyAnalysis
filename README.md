@@ -13,12 +13,20 @@ Il codice sorgente è disponibile all'indirizzo [Scarica il codice Sorgente](htt
 
 ## Nuove funzionalità
 
+**29 Marzo 2020**
+
+* Unificato sistema dei colori
+* Cambiati grafici a linee con alcuni a barre
+* Corretto il significato del numero dei nuovi contagiati
+* Aggiunti articoli ufficiali per la lettura dei dati
+
 **28 Marzo 2020**
 
 * Aggiunto Indice
 * Report direttamente online su GitPages
 
 **27 Marzo 2020** 
+
 * Dati nazionali 
 
 
