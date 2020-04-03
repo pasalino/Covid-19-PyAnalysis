@@ -13,6 +13,9 @@ Il codice sorgente è disponibile all'indirizzo [Scarica il codice Sorgente](htt
 
 ## Nuove funzionalità
 
+**03 Aprile 2020**
+* Aggiunte percenuali giornaliere
+
 **02 Aprile 2020**
 * Aggiunta scala logaritmica per il totale cumulato
 * Aggiunto grafico del numero di contagiati per tampone giornaliero
