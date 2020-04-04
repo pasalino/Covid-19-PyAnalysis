@@ -13,6 +13,11 @@ Il codice sorgente è disponibile all'indirizzo [Scarica il codice Sorgente](htt
 
 ## Nuove funzionalità
 
+**04 Aprile 2020**
+* Tolti i grafici non necessari
+* Corretti alcuni bug
+* Cambiato il modo di rappresentare la velocità dell'epidemia
+
 **03 Aprile 2020**
 * Aggiunte percenuali giornaliere
 
