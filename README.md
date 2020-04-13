@@ -13,6 +13,9 @@ Il codice sorgente è disponibile all'indirizzo [Scarica il codice Sorgente](htt
 
 ## Nuove funzionalità
 
+**13 Aprile 2020**
+* Aggiunti ultimi dati per regione
+
 **12 Aprile 2020**
 * Corretto il modo di calcolare la velocità dell'epidemia
 * Aggiunti i grafici cumulati delle regioni
