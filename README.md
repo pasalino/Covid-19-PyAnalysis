@@ -13,6 +13,10 @@ Il codice sorgente è disponibile all'indirizzo [Scarica il codice Sorgente](htt
 
 ## Nuove funzionalità
 
+**18 Aprile 2020**
+* Aggiunti i dati regionali dell'incremento giornaliero
+* Rimossi i grafici della percentuale di incremento
+
 **13 Aprile 2020**
 * Aggiunti ultimi dati per regione
 
