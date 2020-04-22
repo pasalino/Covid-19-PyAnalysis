@@ -13,6 +13,9 @@ Il codice sorgente è disponibile all'indirizzo [Scarica il codice Sorgente](htt
 
 ## Nuove funzionalità
 
+**22 Aprile 2020**
+* Corretto il modo di calcolare il growth rate quando non cambia segno negativo
+
 **18 Aprile 2020**
 * Aggiunti i dati regionali dell'incremento giornaliero
 * Rimossi i grafici della percentuale di incremento

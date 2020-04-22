@@ -7,7 +7,7 @@ current_file="$current_date-Covid-19-Report.html"
 echo "$current_file"
 mkdir -p report
 
-jupyter nbconvert ./Covid-19.ipynb --TemplateExporter.exclude_input=True --TemplateExporter.exclude_output_prompt=True --TemplateExporter.exclude_input_prompt=True --execute
+jupyter nbconvert ./Covid-19.ipynb --TemplateExporter.exclude_input=True --TemplateExporter.exclude_output_prompt=True --TemplateExporter.exclude_input_prompt=True --execute --ExecutePreprocessor.timeout=600
 
 cp Covid-19.html "report/$current_file"
 
