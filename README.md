@@ -13,6 +13,10 @@ Il codice sorgente è disponibile all'indirizzo [Scarica il codice Sorgente](htt
 
 ## Nuove funzionalità
 
+**5 Maggio 2020**
+* Corretti alcuni grafici che contenevano delle medie errate
+* Splittati alcuni grafici per una migliore visualizzazione dei guariti e dei deceduti
+
 **23 Aprile 2020**
 * Aggiunto dettaglio Lombardia
 
