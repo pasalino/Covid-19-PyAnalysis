@@ -13,6 +13,11 @@ Il codice sorgente è disponibile all'indirizzo [Scarica il codice Sorgente](htt
 
 ## Nuove funzionalità
 
+**7 Maggio 2020**
+* Unificato il grafico dei tamponi con casi per tampone
+* Esposto il valore percentuale dei casi per tampone negli ultimi 10 giorni
+* Corretto la media di crescita dell'epidemia
+
 **5 Maggio 2020**
 * Corretti alcuni grafici che contenevano delle medie errate
 * Splittati alcuni grafici per una migliore visualizzazione dei guariti e dei deceduti
