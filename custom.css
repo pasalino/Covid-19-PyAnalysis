@@ -63,3 +63,7 @@ div > .toc > ul > ul > ul >li > a {
     font-size: 100%;
     margin-bottom: 10px;
 }
+
+.jp-OutputArea-child .jp-OutputArea-output {
+    display: none;
+}
