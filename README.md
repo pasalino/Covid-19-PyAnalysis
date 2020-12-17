@@ -68,13 +68,17 @@ Il codice sorgente è disponibile all'indirizzo [Scarica il codice Sorgente](htt
 
 * Dati nazionali 
 
+**17 Dicembre**
+* Dati regionali
+* Creazione di label corrette e settimanali
+* Rimozione di grafi e informazioni non rilevanti
+* Riorganizzazione dati tipologia di ricovero
+* Aggiornamento librerie
 
 ## Roadmap
 
-* Dati regionali
 * Contronto con dati europei
 * Contronto con dati mondiali
-* Confronto con le previsioni del governo a inizio epidemia
 
 ## Disclosure e scarico di responsabilità
 
